@@ -8,5 +8,5 @@ Personal repo for compelting Katas from codewars.com website.
 
 * 8 kyu: 4
 * 7 kyu: 2
-* 6 kyu: 25
+* 6 kyu: 27
 * 5 kyu: 5

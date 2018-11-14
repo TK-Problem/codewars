@@ -44,5 +44,3 @@ class Test(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    # print(format_words(['one', 'two', 'three', 'four']))
-    # print(format_words(['one', '', 'three']))
