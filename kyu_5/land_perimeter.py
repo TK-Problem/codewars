@@ -36,7 +36,7 @@ def land_perimeter(arr):
     return "Total land perimeter: {}".format(total_walls)
 
 
-# Testsing
+# Testing
 class Test(unittest.TestCase):
 
     def test_1(self):
